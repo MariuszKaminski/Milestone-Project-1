@@ -56,3 +56,52 @@
     color:turquoise;
     font-size: 1.3em;
   }
+  #about-backgound-image {
+    background-image: url("../img/gym_about.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 1000px;
+    width: 100%;
+    overflow: hidden;
+  }
+  
+  #about-cover-text {
+      font-size: 130%;
+      font-family: Oswald;
+      text-transform: uppercase;
+      letter-spacing: 4px;
+  
+      width: 600px;
+      height: 800px;
+  
+      padding-top: 10px;
+      padding-left: 20px;
+  
+      background-color: rgba(0, 128, 128, .8);
+  
+      bottom: 30px;
+      left: 150px;
+  
+      position: absolute;
+  }
+  
+  #offer-cover-text {
+      font-size: 130%;
+      font-family: Oswald;
+      text-transform: uppercase;
+      letter-spacing: 4px;
+  
+      width: 800px;
+      height: 300px;
+  
+      padding-top: 15px;
+      padding-left: 20px;
+  
+      background-color: rgba(0, 128, 128, .8);
+  
+      bottom: 30px;
+      right: 150px;
+  
+      position: absolute;
+  }
