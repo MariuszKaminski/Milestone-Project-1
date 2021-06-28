@@ -71,7 +71,7 @@ The customer - “GymForU”, a local independent gym, wants to enhance their on
 ## Wireframes
 
 ### Homepage
-(./assets/img/homepage.png)
+(/assets/img/homepage.png)
 
 ## Design Considerations
 
