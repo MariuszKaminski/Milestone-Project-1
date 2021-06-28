@@ -2,7 +2,7 @@
 
 ---
 
-Table of Contents
+## Table of Contents
 
 [Introduction and Purpose](#introduction-and-purpose)
 
@@ -110,8 +110,9 @@ All homepage section headings and cards in the “Contact Us” section are acco
 ### New Members Sing up Form
 ### Membership/Admission Pricing Table
 
-
 ## Implementation and Coding
+
+## Technologies
 
 ## Testing
 
