@@ -83,17 +83,17 @@ The customer - “GymForU”, a local independent gym, wants to enhance their on
 
 ## Design Considerations
 
-###Colours
+### Colours
 The colours used for the design are in line with Gym4U brand colours which include the following:
-*teal (#008080) 
-*grey (#4a4a4f) 
-*black (#000000)  
-*white  (#FFFFFF)
+* teal (#008080) 
+* grey (#4a4a4f) 
+* black (#000000)  
+* white  (#FFFFFF)
 
-###Fonts
+### Fonts
 For the text content the website utilizes Goole Font “Noto Sans”. Font size has been consistently maintained as 1.6em for h2 headings, 1.4em for important information and regular font for smaller print.
 
-###Design ideas:
+### Design ideas:
 I have reused and adapted the idea of the semi-transparent cards on a photo background that can be found in Code Institute’s “Love Running” tutorial. This design has been applied to “Classes” and “Contact Us” homepage sections. Also the layout of the photographs in the Gallery page follows the example of masonry design principle from the same tutorial.
 
 ## Features
