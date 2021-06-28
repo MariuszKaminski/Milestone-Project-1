@@ -4,7 +4,7 @@
 
 Table of Contents
 
-[Introduction & Purpose](#introduction-&-purpose)
+[Introduction and Purpose](#introduction-and-purpose)
 
 [Problem Statement](#problem-statement)
 
@@ -20,7 +20,7 @@ Table of Contents
 
 [Features](#features)
 
-[Implementation & Coding](#implementation-&-coding)
+[Implementation and Coding](#implementation-and-coding)
 
 [Testing](#testing)
 
@@ -30,7 +30,7 @@ Table of Contents
 
 ---
 
-## Introduction & Purpose
+## Introduction and Purpose
 
 This project has been created as Milestone One project for my Diploma Level 5 in Web Development, a course run by Harlow College in association with Code Institute. 
 In this document you will find the documentation, which accompanies the website that I have designed and developed for GYM4U, a fictional gym facility that I have based on real life gym facilities operating in my local area.
@@ -74,7 +74,7 @@ The customer - “GymForU”, a local independent gym, wants to enhance their on
 
 ## Features
 
-## Implementation & Coding
+## Implementation and Coding
 
 ## Testing
 
