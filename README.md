@@ -71,11 +71,45 @@ The customer - “GymForU”, a local independent gym, wants to enhance their on
 ## Wireframes
 
 ### Homepage
-(assets/img/home_page.png)
+![Desktop version](./assets/img/home_page.png)
+
+### Gallery
+
+![Desktop version](./assets/img/gallery.png)
+
+### Sign in / Sign up
+
+![Desktop version](./assets/img/sign-in.png)
 
 ## Design Considerations
 
+###Colours
+The colours used for the design are in line with Gym4U brand colours which include the following:
+*teal (#008080) 
+*grey (#4a4a4f) 
+*black (#000000)  
+*white  (#FFFFFF)
+
+###Fonts
+For the text content the website utilizes Goole Font “Noto Sans”. Font size has been consistently maintained as 1.6em for h2 headings, 1.4em for important information and regular font for smaller print.
+
+###Design ideas:
+I have reused and adapted the idea of the semi-transparent cards on a photo background that can be found in Code Institute’s “Love Running” tutorial. This design has been applied to “Classes” and “Contact Us” homepage sections. Also the layout of the photographs in the Gallery page follows the example of masonry design principle from the same tutorial.
+
 ## Features
+Large-sized logo is prominently displayed at the homepage page with small-sized logo always visible on the navbar.
+All homepage section headings and cards in the “Contact Us” section are accompanied with Fontawesome icons. 
+
+### Navbar
+### Logo
+### Classes Section
+### Contact Us Section
+### Footer
+### Gallery
+### Members Sign in Form
+### New Members Sing up Form
+### Membership/Admission Pricing Table
+
 
 ## Implementation and Coding
 
