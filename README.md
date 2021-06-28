@@ -70,6 +70,8 @@ The customer - “GymForU”, a local independent gym, wants to enhance their on
 
 ## Wireframes
 
+### Homepage
+
 ## Design Considerations
 
 ## Features
