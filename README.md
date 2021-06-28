@@ -6,26 +6,27 @@ Table of Contents
 
 [Introduction & Purpose](#introduction-&-purpose)
 
-Problem Statement
+[Problem Statement](#problem-statement)
 
-Analysis
-  * Feasibility study
-  * Functional Requirements (Client's neends)
-  * Non-functional Requirements (Constraints)
-  * User needs
+[Analysis](#analysis)
+  * [Feasibility study](#feasibility-study)
+  * [Functional Requirements](#functional-requirements)
+  * [Non-functional Requirements](#non-functional-requirements)
+  * [User needs](#user-needs)
 
 [Wireframes](#wireframes)
 
-Design Considerations
+[Design Considerations](#design-considerations)
 
-Features
+[Features](#features)
 
-Implementation & Coding
+[Implementation & Coding](#implementation-&-coding)
 
-Testing
-  Validation
+[Testing](#testing)
+
+[Validation](#validation)
   
-Evaluation
+[Evaluation](#evaluation)
 
 ---
 
@@ -45,7 +46,7 @@ The customer - “GymForU”, a local independent gym, wants to enhance their on
 2.	In the face of growing competition from gym chains and other locally run gyms and providing that the customer has at their disposal the funds needed, there is no reason to delay the development and deployment of the website.
 3.	The website will bring awareness of the facility and what they can offer helping to attract undecided prospective members from the local area and even further away.
  
-### Functional Requirements (Client’s needs)
+### Functional Requirements
 1.	It must present introductory information about gym features that set it apart from other gyms in the area. It should include the full range of offered services.
 2.	It has to present a detailed weekly class schedule.
 3.	It has to provide information about the location, contact details and opening times.
@@ -55,7 +56,7 @@ The customer - “GymForU”, a local independent gym, wants to enhance their on
 7.	The website should point to all other social media sites that belong to the gym.
 8.	Responsive design utilising HTML5/CSS3 scripts.
 
-### Non-functional Requirements (constraints)
+### Non-functional Requirements
 1.	Website completion deadline: 2nd of July, 2021
 2.	The website should comprise of no more than 3 web pages.
 3.	Author’s skillset.
@@ -69,6 +70,16 @@ The customer - “GymForU”, a local independent gym, wants to enhance their on
 
 ## Wireframes
 
+## Design Considerations
 
+## Features
+
+## Implementation & Coding
+
+## Testing
+
+## Validation
+  
+## Evaluation
 
 
