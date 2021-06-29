@@ -101,6 +101,10 @@ Large-sized logo is prominently displayed at the homepage page with small-sized 
 All homepage section headings and cards in the “Contact Us” section are accompanied with Fontawesome icons. 
 
 ### Navbar
+![Navbar desktop version](./assets/img/navbar.png)
+
+The navbar is displayed on all website pages and containing a small gym logo. It  provides links to “About”, “Classes” and “Contact “ homepage sections as well as to “Gallery” and  “Sign Up” pages within the website.
+
 ### Logo
 ### Classes Section
 ### Contact Us Section
