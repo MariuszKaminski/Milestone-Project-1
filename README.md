@@ -166,9 +166,9 @@ The purpose of the table is to present prospective customers with the whole rang
 ## Credits (Sources for Content, Media and Design Ideas)
 
 ### Sources for content:
-[BodyActiveGym](http://www.bodyactivegym.co.uk/) text adapted for “About” and "What do we offer?" sections\
-[RippedGym Harlow](https://www.rippedgymharlow.co.uk/) text adapted for “About” section and “Opening Times” card\
-[PureGym](https://www.puregym.com/gyms/harlow/timetable/) class names in “Classes” section
+[BodyActiveGym](http://www.bodyactivegym.co.uk/) -text adapted for “About” and "What do we offer?" sections\
+[RippedGym Harlow](https://www.rippedgymharlow.co.uk/) -text adapted for “About” section and “Opening Times” card\
+[PureGym](https://www.puregym.com/gyms/harlow/timetable/) -class names in “Classes” section
 
 ### Sources for photos:
 
@@ -176,42 +176,25 @@ The purpose of the table is to present prospective customers with the whole rang
 [gym_outside.jpg](https://1.bp.blogspot.com/-axCdPQ-UPj0/X47-VYIrSaI/AAAAAAAAW9M/9sP8mzMdCdYtBFDWlV__MR6jztnECOl1wCLcBGAsYHQ/s800/40023.jpg) This photo originates from [The Door Industry Journal](https://blog.doorindustryjournal.co.uk)
 
 #### Backgrounds:
-gym-about.jpg
-https://unsplash.com/photos/CQfNt66ttZM?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
-sign_up_background.jpg  
-https://unsplash.com/photos/wTcD3MwL_VY?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
-classes-background.jpg
-https://unsplash.com/photos/y0SMHt74yqc?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
-saffron_walden.jpg
-https://images.promotemyplace.com/Uploads/Property/2788/HeaderImage_cropped.jpg?width=1170&height=0&grow=1&scale=both&mode=max&quality=85&v=20200609120457
+[gym-about.jpg](https://unsplash.com/photos/CQfNt66ttZM?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) (Unsplash)\
+[sign_up_background.jpg](https://unsplash.com/photos/wTcD3MwL_VY?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) (Unsplash)\
+[classes-background.jpg](https://unsplash.com/photos/y0SMHt74yqc?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) (Unsplash)\
+[saffron_walden.jpg](https://promotemyplacecdn.azureedge.net/cache/4/b/8/8/5/9/4b8859073357c1d5f901fa61144f97461a861ce5.jpg) This photo originates form [Saffron Walden Initiative](http://www.swinitiative.org/) website.
 
 #### Gallery photos:
-cycle-area.jpg
-https://unsplash.com/photos/dDp-6pXrYik?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
-treadmill-area.jpg
-https://unsplash.com/photos/m27OTMegUyA?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
-weights-area.jpg
-https://unsplash.com/photos/nV7WA07ikI4?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
-exercise-machinges.jpg
-https://unsplash.com/photos/0sa8D74iodI?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
-exercise1.jpg
-https://images.pexels.com/photos/2247179/pexels-photo-2247179.jpeg?cs=srgb&dl=pexels-the-lazy-artist-gallery-2247179.jpg&fm=jpg
-exercise2.jpg
-https://unsplash.com/photos/wXBK9JrM0iU?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
-exercise3.jpg
-https://images.pexels.com/photos/6551133/pexels-photo-6551133.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260
-classes1.jpg
-https://unsplash.com/photos/NbpUM86Jo8Y?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
-classes2.jpg
-https://unsplash.com/photos/yNPTXNYVfmw?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
-classes3.jpg
-https://unsplash.com/photos/wy_L8W0zcpI?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
-man_lifting.jpg
-https://www.pexels.com/pl-pl/zdjecie/osoba-podnoszaca-sztange-w-pomieszczeniu-2261485/
-juice_bar.jpg
-https://mk0lavidaliverp84l6x.kinstacdn.com/wp-content/uploads/2019/09/TEL7-750x430.jpg
-healty_food.jpg
-https://mk0lavidaliverp84l6x.kinstacdn.com/wp-content/uploads/2019/09/TEL2-750x430.jpg
+[cycle-area.jpg](https://unsplash.com/photos/dDp-6pXrYik?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) (Unsplash)\
+[treadmill-area.jpg](https://unsplash.com/photos/m27OTMegUyA?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) (Unsplash)\
+[weights-area.jpg](https://unsplash.com/photos/nV7WA07ikI4?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) (Unsplash)\
+[exercise-machinges.jpg](https://unsplash.com/photos/0sa8D74iodI?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) (Unsplash)\
+[exercise1.jpg](https://images.pexels.com/photos/2247179/pexels-photo-2247179.jpeg?cs=srgb&dl=pexels-the-lazy-artist-gallery-2247179.jpg&fm=jpg) (Pexels)\
+[exercise2.jpg](https://unsplash.com/photos/wXBK9JrM0iU?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) (Unsplash)\
+[exercise3.jpg](https://images.pexels.com/photos/6551133/pexels-photo-6551133.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260) (Pexels)\
+[classes1.jpg](https://unsplash.com/photos/NbpUM86Jo8Y?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) (Unsplash)\
+[classes2.jpg](https://unsplash.com/photos/yNPTXNYVfmw?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) (Unsplash)\
+[classes3.jpg](https://unsplash.com/photos/wy_L8W0zcpI?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) (Unsplash)\
+[man_lifting.jpg](https://www.pexels.com/pl-pl/zdjecie/osoba-podnoszaca-sztange-w-pomieszczeniu-2261485/) (Pexels)\
+[juice_bar.jpg](https://mk0lavidaliverp84l6x.kinstacdn.com/wp-content/uploads/2019/09/TEL7-750x430.jpg),
+[healty_food.jpg](https://mk0lavidaliverp84l6x.kinstacdn.com/wp-content/uploads/2019/09/TEL2-750x430.jpg) These photos originate from an article [TEL ISLAND: HEALTHY FOOD IN THE HEART OF HESWALL!](https://www.lavidaliverpool.co.uk/tel-island-healthy-food-heart-heswall/) at [la vida liverpool](https://www.lavidaliverpool.co.uk/). 
 
 
 
