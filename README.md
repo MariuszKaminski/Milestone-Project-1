@@ -166,8 +166,8 @@ The purpose of the table is to present prospective customers with the whole rang
 ## Credits (Sources for Content, Media and Design Ideas)
 
 ### Sources for content:
-[BodyActiveGym](http://www.bodyactivegym.co.uk/) text adapted for “About” and "What do we offer?" sections
-[RippedGym Harlow](https://www.rippedgymharlow.co.uk/) text adapted for “About” section and “Opening Times” card
+[BodyActiveGym](http://www.bodyactivegym.co.uk/) text adapted for “About” and "What do we offer?" sections\
+[RippedGym Harlow](https://www.rippedgymharlow.co.uk/) text adapted for “About” section and “Opening Times” card\
 [PureGym](https://www.puregym.com/gyms/harlow/timetable/) class names in “Classes” section
 
 ### Sources for photos:
