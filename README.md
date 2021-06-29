@@ -101,22 +101,60 @@ Large-sized logo is prominently displayed at the homepage page with small-sized 
 All homepage section headings and cards in the “Contact Us” section are accompanied with Fontawesome icons. 
 
 ### Navbar
-![Navbar desktop version](./assets/img/navbar.png)
+![Navbar desktop version](./assets/img/navbar.PNG)
 
-The navbar is displayed on all website pages and containing a small gym logo. It  provides links to “About”, “Classes” and “Contact “ homepage sections as well as to “Gallery” and  “Sign Up” pages within the website.
+The navbar is displayed on all website pages and containing a small gym logo. It  provides links to “About”, “Classes” and “Contact “ homepage sections as well as to “Gallery” and  “Sign in/Sign up” pages within the website.
 
 ### Logo
+![Logo desktop version](./assets/img/gym4u_logo.png)
+
+
 ### Classes Section
+![Classes section desktop version](./assets/img/classes_section.PNG)
+The classes section contains weekly class schedule with each day of the week on a separate semi-transparent card on a photo background.
+
 ### Contact Us Section
+![Contact us section desktop version](./assets/img/contact_us_section.PNG)
+This section contains four subsections providing: address, contact details, opening time and iframe with google map showing the gym’s exact location. The subsections are in the form of semi-transparent cards with the town’s photo as a background.
+
 ### Footer
+![Footer desktop version](./assets/img/footer.PNG)
+The footer, displayed on all pages, provides a basic copyright information and links to the gym’s social media sites in the form of Fontawesome icons.
+
 ### Gallery
+![Gallery desktop version](./assets/img/gallery.PNG)
+The gallery comprises photos of different sizes grouped in 4 columns. The photos give a preview of gym’s facilities, equipment and available activities. The gallery follows the ‘masonry’ design principle.
+
 ### Members Sign in Form
+![Sign in form desktop version](./assets/img/members_area.PNG)
+
+The form lists all extra benefits the members are entitled. It enables the members to log in by entering their log in details and pressing the “sign in” button.
+
 ### New Members Sing up Form
+![Sign up form desktop version](./assets/img/new_members_sign_in.PNG)
+
+The purpose of the sign up form is to aid the customers who have made a decision to join the gym to book an introductory session and create their member’s account at the website. For this reason some basic personal details need to be gathered from the form’s input fields.
+
 ### Membership/Admission Pricing Table
+![Pricing table desktop version](./assets/img/membership_pricing.PNG)
+
+The purpose of the table is to present prospective customers with the whole range of flexible payment options for the gym’s services.
 
 ## Implementation and Coding
 
-## Technologies
+## Technologies Used
+
+* [HTML5](https://en.wikipedia.org/wiki/HTML5) used to provide the site with content
+* [CSS3](https://en.wikipedia.org/wiki/CSS#CSS_3) used to style the HTML content
+* [Javascript](https://en.wikipedia.org/wiki/JavaScript) powering the Google Map in "Contact Us" Section
+* [Balsamiq](https://balsamiq.com/) used for the creation of wireframes for the site
+* [Google Chrome Developer tools](https://developer.chrome.com/docs/devtools/) used to test site responsiveness and to test code
+* [VSC](https://code.visualstudio.com/) for offline code writing
+* [Github](https://github.com/) used as the repository hosting service
+* [Gitpod](https://www.gitpod.io/) an online base code editor used for writing code and tracking changes
+* [Code Institute Gitpod Full Template](https://github.com/Code-Institute-Org/gitpod-full-template) used to as a template for the creation of the project repository
+* [W3C Markup](https://validator.w3.org/) used for HTML validation
+* [Jigsaw validation](https://jigsaw.w3.org/) used for CSS validation.
 
 ## Testing
 
