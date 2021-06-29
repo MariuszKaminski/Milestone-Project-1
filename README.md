@@ -37,7 +37,7 @@ In this document you will find the documentation, which accompanies the website 
 
 ## Problem Statement
 
-The customer - “GymForU”, a local independent gym, wants to enhance their online presence by means of a custom build website. The page should provide prospective members with information on the offered range of services and provide an online hub for the existing community of members. The customer wants their website up and running within a period of one month. For this purpose they have allocated a budged of £2000.
+The customer - “GymForU”, a local independent gym, wants to enhance their online presence by means of a custom build website. The page should provide prospective members with information on the offered range of services and provide an online hub for the existing community of members. The customer wants their website up and running within a period of one month. For this purpose they have allocated a budget of £2000.
 
 ## Analysis
 
