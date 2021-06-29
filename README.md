@@ -12,7 +12,7 @@
   * [Feasibility study](#feasibility-study)
   * [Functional Requirements](#functional-requirements)
   * [Non-functional Requirements](#non-functional-requirements)
-  * [User needs](#user-needs)
+  * [User experience](#user-experience)
 
 [Wireframes](#wireframes)
 
@@ -59,14 +59,45 @@ The customer - “GymForU”, a local independent gym, wants to enhance their on
 ### Non-functional Requirements
 1.	Website completion deadline: 2nd of July, 2021
 2.	The website should comprise of no more than 3 web pages.
-3.	Author’s skillset.
+3.	The developer’s skillset.
 4.	Website should promote the brand i.e. the company logo and the company colours (teal, black, grey and white)
 5.	Be aesthetically pleasing and provide good user experience.
 
-### User needs:
-1.	The website should help the user to make a decision whether Gym4U is the right kind of gym facility for them
-2.	They should be able to obtain all basic information about membership types, pricing, available classes, equipment, facilities and location
-3.	They want the website to be easy to be accessible and easy to navigate 
+
+User goals
+Find the location of the gym
+Find what type of classes are offered
+See what people work as personal trainers
+See price for classes and gym
+
+## User Experience
+
+### Target Audience (User needs):
+People who are looking for the righ gym for them
+People who would like their gym to have good quality equipment
+Couples or groups of friends looking for a place to meet up and exercise together
+People that need an experienced personal trainer who could tailor their execrcise regime and nutrition according to their individual needs 
+
+website should help the user to make a decision whether Gym4U is the right kind of gym facility for them
+They should be able to obtain all basic information about membership types, pricing, available classes, equipment, facilities and location
+They want the website to be easy to be accessible and easy to navigate 
+
+User Requrements and Expectations
+Links and functions that always work
+A simple navigation system
+Easily and quick to find relevant information
+Good presentation and a visually appealing design regardless of screen size
+Easy to contact the business
+
+User Stories:
+As a new user I can easily navigate the website
+As a new user I can easily find romotion deals
+As a new user I can easy find personal traning and classes information
+As a new user I can see where the gym is located
+As a new user I can contact the gym about questions
+As a returning user I want clear information about the hours of classes
+As a returning user I can see information about different personal trainers
+As a returning user to the website it should be easy to share or page to different social media
 
 ## Wireframes
 
