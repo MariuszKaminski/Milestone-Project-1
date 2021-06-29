@@ -148,6 +148,7 @@ The purpose of the table is to present prospective customers with the whole rang
 * [CSS3](https://en.wikipedia.org/wiki/CSS#CSS_3) used to style the HTML content
 * [Javascript](https://en.wikipedia.org/wiki/JavaScript) powering the Google Map in "Contact Us" Section
 * [Balsamiq](https://balsamiq.com/) used for the creation of wireframes for the site
+* [FreeLogo Design](https://www.freelogodesign.org/) a free online tool used to create Gym4U logo
 * [Google Chrome Developer tools](https://developer.chrome.com/docs/devtools/) used to test site responsiveness and to test code
 * [VSC](https://code.visualstudio.com/) for offline code writing
 * [Github](https://github.com/) used as the repository hosting service
