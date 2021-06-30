@@ -63,30 +63,23 @@ The customer - “GymForU”, a local independent gym, wants to enhance their on
 4.	Website should promote the brand i.e. the company logo and the company colours (teal, black, grey and white)
 5.	Be aesthetically pleasing and provide good user experience.
 
-
-User goals
-Find the location of the gym
-Find what type of classes are offered
-See what people work as personal trainers
-See price for classes and gym
-
 ## User Experience
 
 ### Target Audience (User needs):
-People who are looking for the right gym for them
-People who would like their gym to have good quality equipment
-Groups of friends looking for a place to meet and exercise together
-People that need an experienced personal trainer for customized exercise and nutrition advice. 
+* New users - Individuals or groups of people who are looking for the right gym for them to meet and exercise together (check facilities, equipment, pricing, classes, personal training)
+* Returning users - people who want to book classes, upgade/downgrade membership, buy passes, leave feedback, get updates
 
 ### User Stories:
-As a new user I can easily navigate the website
-As a new user I can easily find pricing information
-As a new user I can easily find personal traning and classes information
-As a new user I can check the the location of the gym
-As a new user I can contact the gym regarding any questions I have
-As a returning user I want clear information about the hours of classes
-As a returning user I can see information about different personal trainers
-As a returning user to the website it should be easy to share or page to different social media
+* As a new user I can easily navigate the website
+* As a new user I can easily find pricing information
+* As a new user I can easily find personal traning and classes information
+* As a new user I can check the the location of the gym
+* As a new user I can contact the gym regarding any questions I have
+* As a new user I can find links to the gym's other social media pages that I can visit to gain even more information
+* As a new user I would like to be able to register as a member once I've made my decision to join the gym
+* As a returning user I want clear information about the hours of classes
+* As a returing user
+* As a returning user I can see information about different personal trainers
 
 ## Wireframes
 
@@ -189,11 +182,11 @@ Result: PASSED
 As a new user I can contact the gym regarding any questions I have
 Result: PASSED
 As a new user I can find links to the gym's other social media pages that I can visit to gain even more information
+Result: PASSED
 As a returning user I want clear information about the hours of classes
 Result: PASSED
 As a returning user I can see information about different personal trainers
 Result: PASSED
-As a returning user to the website it should be easy to share or page to different social media
 
 ## Validation
 
