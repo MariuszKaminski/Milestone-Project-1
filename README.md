@@ -208,6 +208,10 @@ The purpose of the table is to present prospective customers with the whole rang
 
 ## Validation
 
+### HTML
+
+### CSS
+
 ## Deployment
   
 ## Evaluation
