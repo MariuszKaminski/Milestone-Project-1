@@ -77,9 +77,10 @@ The customer - “GymForU”, a local independent gym, wants to enhance their on
 * As a new user I can contact the gym regarding any questions I have
 * As a new user I can find links to the gym's other social media pages that I can visit to gain even more information
 * As a new user I would like to be able to register as a member once I've made my decision to join the gym
-* As a returning user I want clear information about the hours of classes
-* As a returing user
-* As a returning user I can see information about different personal trainers
+* As a returning user I can see information about personal trainers working for the gym
+* As a returning user I want to be able to book my classes as well as other services provided by the gym.
+* As a returing user I want to be able to manage my membership.
+* As a returning user I want to be able to leave feedback and get gym related updates.
 
 ## Wireframes
 
@@ -171,22 +172,39 @@ The purpose of the table is to present prospective customers with the whole rang
 * [Jigsaw validation](https://jigsaw.w3.org/) used for CSS validation.
 
 ## Testing
-As a new user I can easily navigate the website
-Result: PASSED
-As a new user I can easily find pricing information
-Result: PASSED
-As a new user I can easily find personal traning and classes information
-Result: PARTIAL PASS
-As a new user I can check the the location of the gym
-Result: PASSED
-As a new user I can contact the gym regarding any questions I have
-Result: PASSED
-As a new user I can find links to the gym's other social media pages that I can visit to gain even more information
-Result: PASSED
-As a returning user I want clear information about the hours of classes
-Result: PASSED
-As a returning user I can see information about different personal trainers
-Result: PASSED
+1. As a new user I can easily navigate the website.
+* Result: PASSED
+  * The website has a navbar with links to homepage sections and other website pages that can be accessed from every webiste page.
+2. As a new user I can easily find pricing information.
+* Result: PASSED
+  * There is an easy to follow extensive pricing offer provided in the form of a table.
+3. As a new user I can easily find personal traning and classes information.
+* Result: PARTIAL PASS
+  * There is a weekly class schedule and offered services information provided for everyone, however more detailed information about particular personal trainers is only available after sign up.
+4. As a new user I can check the the location of the gym.
+* Result: PASSED
+  * The website provides both the address and an embedded Google Map showing gym's exact location.
+5. As a new user I can contact the gym regarding any questions I have.
+* Result: PASSED
+  * The website provides contact details for enquiries.
+6. As a new user I can find links to the gym's other social media pages that I can visit to gain even more information.
+* Result: PASSED
+  * The social media likns are provided in the footer and can be accessed from every website page
+7. As a new user I would like to be able to register as a member once I've made my decision to join the gym.
+* Result: PASSED
+  * The website has a separate form where a person whishing to join the gym can leave their details to book an induction.
+8. As a returning user I can see information about personal trainers working for the gym
+* Result: PASSED
+  * This function becomes available after joining the gym and can be accessed after loging into a members account in the "Member's area" section.
+9. As a returning user I want to be able to book my classes as well as other services provided by the gym.
+* Result: PASSED
+  * This function becomes available after joining the gym and can be accessed after loging into a members account in the "Member's area" section.
+10. As a returing user I want to be able to manage my membership.
+* Result: PASSED
+  * This function becomes available after joining the gym and can be accessed after loging into a members account in the "Member's area" section.
+11. As a returning user I want to be able to leave feedback and get gym related updates.
+* Result: PASSED
+  * This function becomes available after joining the gym and can be accessed after loging into a members account in the "Member's area" section.
 
 ## Validation
 
