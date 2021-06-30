@@ -219,8 +219,8 @@ Pasting the code into W3C Markup Validation Service has returned the following r
 All the above errors have been correncted. The service's recommendation to introduce h1-h6 elements into the section of "gallery.htm" is not applicable as the only content on the page are photos. 
 
 ### CSS
-Pasting the code into W3C Markup Validation Service has returned the following results:\
-* style.css
+Pasting the code into W3C Markup Validation Service has returned the following results:
+* style.css\
 ![CSS validation results](./assets/img/css-validation-results.PNG)
 
 ## Deployment
