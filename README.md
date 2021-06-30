@@ -261,7 +261,8 @@ Pasting the code into W3C Markup Validation Service has returned the following r
 [healty_food.jpg](https://mk0lavidaliverp84l6x.kinstacdn.com/wp-content/uploads/2019/09/TEL2-750x430.jpg) These photos originate from the article [TEL ISLAND: HEALTHY FOOD IN THE HEART OF HESWALL!](https://www.lavidaliverpool.co.uk/tel-island-healthy-food-heart-heswall/) at [la vida liverpool](https://www.lavidaliverpool.co.uk/). 
 
 #### Libraries:
-
+* [Font Awesome](https://fontawesome.com/) -source for the icons
+* [Font Awesome](https://fontawesome.com/) -source for the fonts
 #### Design ideas:
 
 
