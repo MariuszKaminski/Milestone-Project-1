@@ -209,7 +209,7 @@ The purpose of the table is to present prospective customers with the whole rang
 ## Validation
 
 ### HTML
-Pasting the code into W3C Markup Validation Service has returned the following results for the following pages:
+Pasting the code into W3C Markup Validation Service has returned the following results for each of the pages:
 * index.html
 ![Index.html validation results](./assets/img/html-validation-results-index.PNG)
 * gallery.html
