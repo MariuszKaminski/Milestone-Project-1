@@ -209,8 +209,17 @@ The purpose of the table is to present prospective customers with the whole rang
 ## Validation
 
 ### HTML
+Pasting the code into W3C Markup Validation Service has returned the following results for the following pages:
+* index.html
+![Index.html validation results](./assets/img/html-validation-results-index.PNG)
+* gallery.html
+![Index.html validation results](./assets/img/html-validation-results-gallery.PNG)
+* sign-up.html
+![Index.html validation results](./assets/img/html-validation-results-sign-up.PNG)
+All the above errors have been correncted. The service's recommendation to introduce h1-h6 elements into the section of "gallery.htm" is not applicable as the only content on the page are photos. 
 
 ### CSS
+
 
 ## Deployment
   
