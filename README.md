@@ -73,28 +73,17 @@ See price for classes and gym
 ## User Experience
 
 ### Target Audience (User needs):
-People who are looking for the righ gym for them
+People who are looking for the right gym for them
 People who would like their gym to have good quality equipment
-Couples or groups of friends looking for a place to meet up and exercise together
-People that need an experienced personal trainer who could tailor their execrcise regime and nutrition according to their individual needs 
+Groups of friends looking for a place to meet and exercise together
+People that need an experienced personal trainer for customized exercise and nutrition advice. 
 
-website should help the user to make a decision whether Gym4U is the right kind of gym facility for them
-They should be able to obtain all basic information about membership types, pricing, available classes, equipment, facilities and location
-They want the website to be easy to be accessible and easy to navigate 
-
-User Requrements and Expectations
-Links and functions that always work
-A simple navigation system
-Easily and quick to find relevant information
-Good presentation and a visually appealing design regardless of screen size
-Easy to contact the business
-
-User Stories:
+### User Stories:
 As a new user I can easily navigate the website
-As a new user I can easily find romotion deals
-As a new user I can easy find personal traning and classes information
-As a new user I can see where the gym is located
-As a new user I can contact the gym about questions
+As a new user I can easily find pricing information
+As a new user I can easily find personal traning and classes information
+As a new user I can check the the location of the gym
+As a new user I can contact the gym regarding any questions I have
 As a returning user I want clear information about the hours of classes
 As a returning user I can see information about different personal trainers
 As a returning user to the website it should be easy to share or page to different social media
@@ -116,10 +105,10 @@ As a returning user to the website it should be easy to share or page to differe
 
 ### Colours
 The colours used for the design are in line with Gym4U brand colours which include the following:
-* teal (#008080) 
-* grey (#4a4a4f) 
-* black (#000000)  
-* white  (#FFFFFF)
+* teal (#008080) - for links buttons and backgrounds
+* grey (#4a4a4f) - for backgrounds
+* black (#000000) - for fonts and backgrounds
+* white  (#FFFFFF) - for fonts and logo background
 
 ### Fonts
 For the text content the website utilizes Goole Font “Noto Sans”. Font size has been consistently maintained as 1.6em for h2 headings, 1.4em for important information and regular font for smaller print.
@@ -189,6 +178,22 @@ The purpose of the table is to present prospective customers with the whole rang
 * [Jigsaw validation](https://jigsaw.w3.org/) used for CSS validation.
 
 ## Testing
+As a new user I can easily navigate the website
+Result: PASSED
+As a new user I can easily find pricing information
+Result: PASSED
+As a new user I can easily find personal traning and classes information
+Result: PARTIAL PASS
+As a new user I can check the the location of the gym
+Result: PASSED
+As a new user I can contact the gym regarding any questions I have
+Result: PASSED
+As a new user I can find links to the gym's other social media pages that I can visit to gain even more information
+As a returning user I want clear information about the hours of classes
+Result: PASSED
+As a returning user I can see information about different personal trainers
+Result: PASSED
+As a returning user to the website it should be easy to share or page to different social media
 
 ## Validation
 
