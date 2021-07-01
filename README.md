@@ -153,6 +153,9 @@ The purpose of the table is to present prospective customers with the whole rang
 
 ## Implementation and Coding
 
+The code for the purpose of this project was written and edited in VSC then copied to GitPod. The website’s structure and content is delivered by means of HTML while visual styling and positioning is achieved by means of CSS. I have aimed to write and space the code in orderly neat manner and provide helpful comments, which is a good practice recommended by Code Institute in their learning tutorials. I also applied class names that hint at their own function. All of this to enhance the readability of the code to other people who might be reviewing it.
+
+
 ## Technologies Used
 
 * [HTML5](https://en.wikipedia.org/wiki/HTML5) used to provide the site with content
