@@ -46,7 +46,7 @@ The customer - “GymForU” is a local independent gym who want to enhance thei
 2.	In the face of growing competition from gym chains and other locally run gyms and providing that the customer has at their disposal the funds needed, there is no reason to delay the development and deployment of the website.
 3.	The website will bring awareness of the facility and what they can offer helping to attract undecided prospective members from the local area and even further away.
  
-### Functional Requirements
+### Functional Requirements (Client's needs)
 1.	It must present introductory information about gym features that set it apart from other gyms in the area. It should include the full range of offered services.
 2.	It has to present a detailed weekly class schedule.
 3.	It has to provide information about the location, contact details and opening times.
@@ -55,16 +55,16 @@ The customer - “GymForU” is a local independent gym who want to enhance thei
 6.	The website should include a gallery which presents the facilities, the range of equipment available and the friendly social atmosphere during classes.
 7.	The website should point to all other social media sites that belong to the gym.
 
-### Non-functional Requirements
+### Non-functional Requirements (Constraints)
 1.	Website completion deadline: 2nd of July, 2021
 2.	The website should comprise of no more than 3 web pages.
 3.	The webiste reflects the developer’s current skillset.
-4.	Website should promote the brand i.e. the company logo and the company colours (teal, black, grey and white)
-5.	Be aesthetically pleasing and provide good user experience.
+4.	The website should promote the brand i.e. the company logo and the company colours (teal, black, grey and white)
+5.	The website aesthetically pleasing and provide good user experience.
 
-## User Experience
+## User Experience (User's needs)
 
-### Target Audience (User needs):
+### Target Audience
 * New users - Individuals or groups of people who are looking for the right gym for them to meet and exercise together (check facilities, equipment, pricing, classes, personal training)
 * Returning users - gym members who want to book classes, upgade/downgrade membership, buy passes, leave feedback, get updates
 
