@@ -263,9 +263,9 @@ While reflecting on the achieved outcome it In its present form the website does
 
 #### Libraries:
 * [Font Awesome](https://fontawesome.com/) -source for the icons
-* [Font Awesome](https://fontawesome.com/) -source for the fonts
+* [Google Fonts](https://fonts.google.com/) -source for the fonts
 
 #### Design ideas:
-* [Code Institue](https://codeinstitute.net/) "Coder's Coffeehouse" and "Love Running" tutorials.
+* [Code Institute](https://codeinstitute.net/) "Coder's Coffeehouse" and "Love Running" tutorials.
 
 
