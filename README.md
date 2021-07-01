@@ -117,7 +117,7 @@ I have reused and adapted the idea of the semi-transparent cards on a photo back
 The navbar is displayed on all website pages and containing a small gym logo. It  provides links to “About”, “Classes” and “Contact “ homepage sections as well as to “Gallery” and  “Sign in/Sign up” pages within the website.
 
 ### Logo
-![Logo desktop version](./assets/img/gym4u_logo.png)
+![Logo desktop version](./assets/img/gym4u_logo.png)\
 Large-sized logo is prominently displayed at the homepage page with small-sized logo always visible on the navbar.
 
 ### Classes Section
