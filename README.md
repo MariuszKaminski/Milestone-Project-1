@@ -223,7 +223,7 @@ Pasting the code into W3C Markup Validation Service has returned the following r
 ## Deployment
   
 ## Evaluation
-In its present form the website does not provide the functionality required by the customer. The site would benefit frorm greater responsivness which can be achieved with Bootstrap library, the inclusion of which was optional in Milestone Project 1. The forms would need to employ appropiate scripts to work, which is currently beyond the developer's skillset. Reflecting on the outcome I 
+While reflecting on the achieved outcome it In its present form the website does not provide the functionality required by the customer. The site would benefit frorm greater responsivness which can be achieved with Bootstrap library, the inclusion of which was optional in Milestone Project 1. The forms would need to employ appropiate scripts to work, which is currently beyond the developer's skillset. The work on this project helped to me to realize the importance of early planning stages and good initial design. In my future projects I will be striving to achieve greater simplicity and functioanlity in order to provide the best possible user experience.
 
 ## Credits
 
