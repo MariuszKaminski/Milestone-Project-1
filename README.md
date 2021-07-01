@@ -33,11 +33,11 @@
 ## Introduction and Purpose
 
 This project has been created as Milestone One project for my Diploma Level 5 in Web Development, a course run by Harlow College in association with Code Institute. 
-In this document you will find the documentation, which accompanies the website that I have designed and developed for GYM4U, a fictional gym facility that I have based on real life gym facilities operating in my local area.
+In this document you will find the documentation, which accompanies a website that I have designed and developed for GYM4U, a fictional gym facility based on real life gym facilities operating in my local area.
 
 ## Problem Statement
 
-The customer - “GymForU”, a local independent gym, wants to enhance their online presence by means of a custom build website. The page should provide prospective members with information on the offered range of services and provide an online hub for the existing community of members. The customer wants their website up and running within a period of one month. For this purpose they have allocated a budget of £2000.
+The customer - “GymForU” is a local independent gym who want to enhance their online presence by means of a custom build website. The page should provide prospective members with information on the offered range of services and establish an online hub for the existing community of members. The customer wants their website up and running within a period of one month. For this purpose they have allocated a budget of £2000.
 
 ## Analysis
 
@@ -50,16 +50,15 @@ The customer - “GymForU”, a local independent gym, wants to enhance their on
 1.	It must present introductory information about gym features that set it apart from other gyms in the area. It should include the full range of offered services.
 2.	It has to present a detailed weekly class schedule.
 3.	It has to provide information about the location, contact details and opening times.
-4.	It needs to have a “members area” where classes and other services could be booked as well as feedback provided.
+4.	It needs to have a “members area” where classes and other services could be booked and feedback provided.
 5.	It needs to have a “sign up” section where new members could express their interest in joining in as a member and book a taster session or induction.
-6.	The website should include a gallery which presents the facilities and the range of equipment available and the friendly social atmosphere during classes.
+6.	The website should include a gallery which presents the facilities, the range of equipment available and the friendly social atmosphere during classes.
 7.	The website should point to all other social media sites that belong to the gym.
-8.	Responsive design utilising HTML5/CSS3 scripts.
 
 ### Non-functional Requirements
 1.	Website completion deadline: 2nd of July, 2021
 2.	The website should comprise of no more than 3 web pages.
-3.	The developer’s skillset.
+3.	The webiste reflects the developer’s current skillset.
 4.	Website should promote the brand i.e. the company logo and the company colours (teal, black, grey and white)
 5.	Be aesthetically pleasing and provide good user experience.
 
@@ -67,7 +66,7 @@ The customer - “GymForU”, a local independent gym, wants to enhance their on
 
 ### Target Audience (User needs):
 * New users - Individuals or groups of people who are looking for the right gym for them to meet and exercise together (check facilities, equipment, pricing, classes, personal training)
-* Returning users - people who want to book classes, upgade/downgrade membership, buy passes, leave feedback, get updates
+* Returning users - gym members who want to book classes, upgade/downgrade membership, buy passes, leave feedback, get updates
 
 ### User Stories:
 * As a new user I can easily navigate the website
@@ -105,14 +104,12 @@ The colours used for the design are in line with Gym4U brand colours which inclu
 * white  (#FFFFFF) - for fonts and logo background
 
 ### Fonts
-For the text content the website utilizes Goole Font “Noto Sans”. Font size has been consistently maintained as 1.6em for h2 headings, 1.4em for important information and regular font for smaller print.
+For the text content the website utilizes Goole Font “Noto Sans”. Font size has been consistently maintained as 1.6em for h2 headings, 1.4em for important information and regular font (weight 400) for smaller print.
 
 ### Design ideas:
 I have reused and adapted the idea of the semi-transparent cards on a photo background that can be found in Code Institute’s “Love Running” tutorial. This design has been applied to “Classes” and “Contact Us” homepage sections. Also the layout of the photographs in the Gallery page follows the example of masonry design principle from the same tutorial.
 
 ## Features
-Large-sized logo is prominently displayed at the homepage page with small-sized logo always visible on the navbar.
-All homepage section headings and cards in the “Contact Us” section are accompanied with Fontawesome icons. 
 
 ### Navbar
 ![Navbar desktop version](./assets/img/navbar.PNG)
@@ -121,7 +118,7 @@ The navbar is displayed on all website pages and containing a small gym logo. It
 
 ### Logo
 ![Logo desktop version](./assets/img/gym4u_logo.png)
-
+Large-sized logo is prominently displayed at the homepage page with small-sized logo always visible on the navbar.
 
 ### Classes Section
 ![Classes section desktop version](./assets/img/classes_section.PNG)
@@ -129,7 +126,7 @@ The classes section contains weekly class schedule with each day of the week on 
 
 ### Contact Us Section
 ![Contact us section desktop version](./assets/img/contact_us_section.PNG)
-This section contains four subsections providing: address, contact details, opening time and iframe with google map showing the gym’s exact location. The subsections are in the form of semi-transparent cards with the town’s photo as a background.
+This section contains four subsections providing: address, contact details, opening time and iframe with google map showing the gym’s exact location. The subsections are in the form of semi-transparent cards with the town’s photo as a background. All cards in the “Contact Us” section are accompanied with Fontawesome icons. This also applies to all homepage section headings.
 
 ### Footer
 ![Footer desktop version](./assets/img/footer.PNG)
@@ -147,7 +144,7 @@ The form lists all extra benefits the members are entitled. It enables the membe
 ### New Members Sing up Form
 ![Sign up form desktop version](./assets/img/new_members_sign_in.PNG)
 
-The purpose of the sign up form is to aid the customers who have made a decision to join the gym to book an introductory session and create their member’s account at the website. For this reason some basic personal details need to be gathered from the form’s input fields.
+The purpose of the sign up form is to help the customers who have made a decision to join the gym to book an introductory session and create their member’s account at the website. For this reason some basic personal details need to be gathered from the form’s input fields.
 
 ### Membership/Admission Pricing Table
 ![Pricing table desktop version](./assets/img/membership_pricing.PNG)
@@ -226,6 +223,7 @@ Pasting the code into W3C Markup Validation Service has returned the following r
 ## Deployment
   
 ## Evaluation
+In its present form the website does not provide the functionality required by the customer. The site would benefit frorm greater responsivness which can be achieved with Bootstrap library, the inclusion of which was optional in Milestone Project 1. The forms would need to employ appropiate scripts to work, which is currently beyond the developer's skillset. Reflecting on the outcome I 
 
 ## Credits
 
@@ -263,6 +261,8 @@ Pasting the code into W3C Markup Validation Service has returned the following r
 #### Libraries:
 * [Font Awesome](https://fontawesome.com/) -source for the icons
 * [Font Awesome](https://fontawesome.com/) -source for the fonts
+
 #### Design ideas:
+* [Code Institue](https://codeinstitute.net/) "Coder's Coffeehouse" and "Love Running" tutorials.
 
 
