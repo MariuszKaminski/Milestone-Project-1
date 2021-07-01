@@ -71,8 +71,8 @@ The customer - “GymForU” is a local independent gym who want to enhance thei
 ### User Stories:
 * As a new user I can easily navigate the website
 * As a new user I can easily find pricing information
-* As a new user I can easily find personal traning and classes information
-* As a new user I can check the the location of the gym
+* As a new user I can easily find personal training and classes information
+* As a new user I can check the location of the gym
 * As a new user I can contact the gym regarding any questions I have
 * As a new user I can find links to the gym's other social media pages that I can visit to gain even more information
 * As a new user I would like to be able to register as a member once I've made my decision to join the gym
