@@ -78,7 +78,7 @@ The customer - “GymForU” is a local independent gym who want to enhance thei
 * As a new user I would like to be able to register as a member once I've made my decision to join the gym
 * As a returning user I can see information about personal trainers working for the gym
 * As a returning user I want to be able to book my classes as well as other services provided by the gym.
-* As a returing user I want to be able to manage my membership.
+* As a returning user I want to be able to manage my membership.
 * As a returning user I want to be able to leave feedback and get gym related updates.
 
 ## Wireframes
