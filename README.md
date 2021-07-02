@@ -9,10 +9,12 @@
 [Problem Statement](#problem-statement)
 
 [Analysis](#analysis)
-  * [Feasibility study](#feasibility-study)
+  * [Feasibility Study](#feasibility-study)
   * [Functional Requirements](#functional-requirements)
   * [Non-functional Requirements](#non-functional-requirements)
-  * [User experience](#user-experience)
+  * [User Experience](#user-experience)
+    * [Target Audience](#target-audience)
+    * [User Stories](#user-stories) 
 
 [Wireframes](#wireframes)
 
@@ -41,12 +43,12 @@ The customer - “GymForU” is a local independent gym who want to enhance thei
 
 ## Analysis
 
-### Feasibility study:
+### Feasibility Study:
 1.	The custom built website would certainly be beneficial, as other ways of advertising may prove to be more expensive and not as efficient in the long run as a permanent interactive and responsive website would.
 2.	In the face of growing competition from gym chains and other locally run gyms and providing that the customer has at their disposal the funds needed, there is no reason to delay the development and deployment of the website.
 3.	The website will bring awareness of the facility and what they can offer helping to attract undecided prospective members from the local area and even further away.
  
-### Functional Requirements (Client's needs)
+### Functional Requirements
 1.	It must present introductory information about gym features that set it apart from other gyms in the area. It should include the full range of offered services.
 2.	It has to present a detailed weekly class schedule.
 3.	It has to provide information about the location, contact details and opening times.
@@ -55,14 +57,14 @@ The customer - “GymForU” is a local independent gym who want to enhance thei
 6.	The website should include a gallery which presents the facilities, the range of equipment available and the friendly social atmosphere during classes.
 7.	The website should point to all other social media sites that belong to the gym.
 
-### Non-functional Requirements (Constraints)
+### Non-functional Requirements
 1.	Website completion deadline: 2nd of July, 2021
 2.	The website should comprise of no more than 3 web pages.
 3.	The webiste reflects the developer’s current skillset.
 4.	The website should promote the brand i.e. the company logo and the company colours (teal, black, grey and white)
 5.	The website aesthetically pleasing and provide good user experience.
 
-## User Experience (User's needs)
+## User Experience 
 
 ### Target Audience
 * New users - Individuals or groups of people who are looking for the right gym for them to meet and exercise together (check facilities, equipment, pricing, classes, personal training)
@@ -226,7 +228,9 @@ Pasting the code into W3C Markup Validation Service has returned the following r
 ## Deployment
   
 ## Evaluation
-While reflecting on the achieved outcome it In its present form the website does not provide the functionality required by the customer. The site would benefit frorm greater responsivness which can be achieved with Bootstrap library, the inclusion of which was optional in Milestone Project 1. The forms would need to employ appropiate scripts to work, which is currently beyond the developer's skillset. The work on this project helped to me to realize the importance of early planning stages and good initial design. In my future projects I will be striving to achieve greater simplicity and functioanlity in order to provide the best possible user experience.
+
+While reflecting on the achieved outcome, it its present form the website does not provide the functionality required by the customer. The site would benefit from greater responsiveness which can be achieved with Bootstrap library, the inclusion of which was optional in Milestone Project 1. The forms would need to employ appropriate scripts to work, which is currently beyond the developer's skillset. Some of the pages might appear overloaded; therefore the website could also benefit from at least one more page (perhaps a separate page for pricing). These are features that could be included in future updates.\
+The work on this project helped to me to realize the importance of early planning stages and good initial design. In my future projects I will be striving to achieve greater simplicity and functionality in order to provide the best possible user experience.
 
 ## Credits
 
