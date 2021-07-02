@@ -26,9 +26,13 @@
 
 [Testing](#testing)
 
+[Deployment](#deployment)
+
 [Validation](#validation)
   
 [Evaluation](#evaluation)
+
+[Credits](#credits)
 
 ---
 
