@@ -1,57 +1,191 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="assets/css/style.css" rel="stylesheet" type="text/css" />
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
     <title>Gym4U Sign In / Up</title>
-</head>
-<body>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css" integrity="sha384-SZXxX4whJ79/gErwcOYf+zWLeJdY/qpuqC4cAa9rOGUstPomtqpuNWT9wdPEn2fk" crossorigin="anonymous">
+    <link href="assets/css/style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
     <header>
-        <a href="index.html">
-            <h1 id="logo">Gym4U</h1>
-          </a>
-            <nav>
-              <ul>
-                <li>
-                    <a href="index.html">Home</a>
-                </li>
-                <li>
-                    <a href="#about">About</a>
-                </li>
-                <li>
-                    <a href="#classes">Classes</a>
-                </li>
-                <li>
-                    <a href="gallery.html">Gallery</a>
-                </li>
-                <li>
-                    <a href="sign-up.html">Sign Up</a>
-                </li>
-                <li>
-                    <a href="#contact">Contact</a>
-                </li>
-              </ul>
-            </nav>  
-    </header>
-
-
-    
-    <footer>
-        <div>
-          <h2>Copyright © Gym4U 2021</h2>
-        </div>      
-        <div class="float-right" id="icons-container">
+      <a href="index.html">
+        <img src="assets/img/gym4u_logo.png" id="logo_small" alt="Gym4U large logo">
+      </a>
+        <nav>
           <ul>
-		          <li><a href="https://www.facebook.com" target="_blank" rel="noopener" aria-label="Find us on Instagram (link opens in a new tab)"><i class="fab fa-facebook-square"></i></a></li>
-		          <li><a href="https://www.instagram.com" target="_blank" rel="noopener" aria-label="Find us on Instagram (link opens in a new tab)"><i class="fab fa-instagram-square"></i></a></li>
-		          <li><a href="https://www.twitter.com" target="_blank" rel="noopener" aria-label="Find us on Twitter (link opens in a new tab)"><i class="fab fa-twitter-square"></i></a></li>
+            <li>
+                <a href="index.html">Home</a>
+            </li>
+            <li>
+                <a href="index.html#about">About</a>
+            </li>
+            <li>
+                <a href="index.html#classes">Classes</a>
+            </li>
+            <li>
+                <a href="gallery.html">Gallery</a>
+            </li>
+            <li>
+              <a href="index.html#contact">Contact</a>
+            </li>
+            <li>
+              <a href="sign-up.html" class="active">Sign In / Sign up</a>
+            </li>
           </ul>
+        </nav>      
+    </header>
+    <section class="form-background">
+        
+      <div id="members-signup" class="sign_in_text">
+        <h1>Members Area</h1>
+          <h2>Log in to your account to take advantage of all extra benefits that our membership hast to offer:</h2>
+          <br>
+          <ul>
+            <li>Book your classes</li>
+            <li>Book an individual workout session with our excellent instructors</li>
+            <li>Discuss your diet with a dietetitian.</li>
+            <li>Get a discount on our nutritious meals</li>
+            <li>Speed up your recovery with a massage.</li>
+            <li>Keep up to date with our events!</li>
+            <li>Leave some feedback and tell us how we are doing.</li>
+          </ul>
+          <br>
+          <form action="https://www.gym4u_members_data_base@gym4u.net" method="POST">
+            <label for="username">Username:</lable>
+            <input class="input-box" type="text" id="username" name="username">
+            <br>
+            <label for="password">Password:</label>
+            <input class="input-box" type="password" id="password" name="password">
+            <br>
+            <input class="form-buttons" type="submit" value="Sign in">
+          </form>
         </div>
-        <div class="float-right">
-          <h2>Find us on:</h2>
-        </div>       
+       
+        <div id="membership_pricing">
+          <h2>Membership options</h2>
+          <h3>Contract</h3>
+          <p>Subject to a £12 joining fee.<br>10% discount on direct debit payments if you work in the public sector</p>
+          <table id="table_1">
+            <tr class="table_headings">
+              <td>12 Month<br>Direct Debit</td>
+              <td>6 Month<br>Direct Debit</td>
+              <td>Joint membership<br>(12 Month Contract)</td>
+            </tr>
+            <tr>
+              <td>£37.50 per month</td>
+              <td>£40.50 per month</td>
+              <td>£30 each per month</td>
+            </tr>
+          </table>
+          <h3>Pay as you go memberships</h3>
+          <p>(No contract or joining fee)</p>
+          <table id="table_2">
+            <tr class="table_headings">
+              <td>1 Year Pass</td>
+              <td>6 Month Pass</td>
+            </tr>
+            <tr>
+              <td>£375</td>
+              <td>£215</td>
+            </tr>
+            <tr class="table_headings">
+              <td>3 Month Pass</td>
+              <td>1 Month Pass</td>
+            </tr>
+            <tr>
+              <td>£130</td>
+              <td>£47.50</td>
+            </tr>
+            <tr class="table_headings">
+              <td>Week Pass<br>(unlimited use Monday-Friday)</td>
+              <td>7 day Pass<br>(unlimited use Monday-Sunday)</td>
+            </tr>
+            <tr>
+              <td>£15</td>
+              <td>£20</td>
+            </tr>
+            <tr class="table_headings">
+              <td>Weekend Pass<br>(From 3pm Friday-4pm Sunday)</td>
+              <td>Day Pass</td>
+            </tr>
+            <tr>
+              <td>£10</td>
+              <td>£6</td>
+            </tr>
+            <tr class="table_headings">
+              <td>Student</td>
+              <td>Senior Citizen</td>
+            </tr>
+            <tr>
+              <td>£27.50 per month (under 21)</td>
+              <td>£27.50 per month (60+)</td>
+            </tr>
+          </table>
+        </div>
+
+        <div id="new-members-signup">
+          <h1>Not a member yet?</h1>
+          <h2>Leave your details below and let our staff member contact you to discuss the best possible membership option and arrange induction!</h2>
+          <br>
+          <form action="https://www.gym4u_membership_enquieries.net" method="POST">
+                 
+            <label for="title">Title </label>
+            <select name="title" id="title">
+              <option value="Mr">Mr</option>
+              <option value="Mrs">Mrs</option>
+              <option value="Ms">Ms</option>
+            </select>
+            <br>
+            <br>        
+            <label for="name">Name:</label>
+            <input class="input-box" type="text" id="name" name="name">
+            <br>
+            <label for="surname">Surname:</label>
+            <input class="input-box" type="text" id="surname" name="surname">
+            <br>       
+            <label for="email">Email:</label>
+            <input class="input-box" type="email" id="email" name="email">
+            <br>
+            <label for="telnumber">Mobile:</label>
+            <input class="input-box" type="tel" id="telnumber" name="telnumber">
+
+          <div class="sign_in_text">
+            <p>How would you like to be contacted?</p>
+            <div>
+            <input type="radio" id="by_email" name="contact_mode" value="email"> <!--Preferred mode of communication email voice call-->
+            <label for="email">Email</label>
+            
+            <input type="radio" id="voice_call" name="contact_mode" value="voice_call">
+            <label for="voice_call">Voice call</label>
+            </div>
+            <div>
+            <input type="checkbox" id="consent" name="consent" value="yes"> <!--Consent to be given to use the data to contact the client-->
+            <label for="consent">Please check this box if you consent to be contacted by Gym4U</label>
+            </div>
+          </div> 
+            <br>
+            <input class="form-buttons" type="submit">
+          </form>
+        </div>
+      </section>
+
+    <footer>
+      <div>
+        <h2>Copyright © Gym4U 2021</h2>
+      </div>      
+      <div class="float-right" id="icons-container">
+        <ul>
+            <li><a href="https://www.facebook.com" target="_blank" rel="noopener" aria-label="Find us on Instagram (link opens in a new tab)"><i class="fab fa-facebook-square"></i></a></li>
+            <li><a href="https://www.instagram.com" target="_blank" rel="noopener" aria-label="Find us on Instagram (link opens in a new tab)"><i class="fab fa-instagram-square"></i></a></li>
+            <li><a href="https://www.twitter.com" target="_blank" rel="noopener" aria-label="Find us on Twitter (link opens in a new tab)"><i class="fab fa-twitter-square"></i></a></li>
+        </ul>
+      </div>
+      <div class="float-right">
+        <h2>Find us on:</h2>
+      </div>             
     </footer>
-</body>
+
+  </body>
+
 </html>
