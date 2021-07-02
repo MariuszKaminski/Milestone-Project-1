@@ -1,61 +1,84 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
 
 *{
   margin:0;
   padding:0;
   border:0;
 }
-  
+
 body {
-   font-family: Lato;
+  font-family: 'Noto Sans', sans-serif;
 }
-  
+
+/*------------Navbar----------*/
+
 header a {
-   text-decoration: none;
-    
-}
+  text-decoration: none;
   
+}
+
 h1 {
-    font-family: Oswald;
-    text-transform: uppercase;
-    letter-spacing: 4px;
-    color:teal;
-    text-align: center;
+  font-family: 'Noto Sans', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  color:teal;
+  text-align: center;
 }
-  
-#logo {
-    float: left;
-    font-size: 1.6em;
-    margin-left: 30px;
-    margin-top: 25px;
+
+#logo_small {
+  z-index: 1;
+  position: absolute;
+  height: 84px;
+  width: 84px;
+  top: 5px;
+  left:5px;
+  background-color: white;
 }
-  
+
 nav ul {
-    list-style: none;
-    background-color: #4a4a4f;
-    text-align: center;
-    padding: 0;
-    margin: 0;
+  background-color: #4a4a4f;
+  text-align: center;
+  padding: 0;
+  margin: 0;
 }
-  
+
 nav li {
-    font-size: 1.2em;
-    letter-spacing: 4px;
-    list-style: none;
-    height: 60px;
-    display: inline-block;
-    margin-top: 30px;
+  font-size: 1.4em;
+  font-weight: bold;
+  letter-spacing: 4px;
+  list-style: none;
+  height: 40px;
+  display: inline-block;
+  padding-top: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 5px;
+  margin-left: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  border: 2px solid;
+  border-color: transparent;
 }
-  
+
+nav li:hover {
+    border: 2px solid;
+    border-color: turquoise;
+}
+
 nav a {
     color:teal;
     font-size: 1.2em; 
 }
-  
+
 nav a:hover {
     color:turquoise;
-    font-size: 1.3em;
 }
+
+.active {
+    color:turquoise;
+}
+/*------------Background----------*/
 
 #about-backgound-image {
     background-image: url("../img/gym_about.jpg");
@@ -66,57 +89,92 @@ nav a:hover {
     width: 100%;
     overflow: hidden;
 }
-  
+
+/*------------About section----------*/
 #about-cover-text {
-      font-size: 130%;
-      font-family: Oswald;
-      text-transform: uppercase;
-      letter-spacing: 4px;
-  
-      width: 600px;
-      height: 800px;
-  
-      padding-top: 10px;
-      padding-left: 20px;
-  
-      background-color: rgba(0, 128, 128, .8);
-  
-      bottom: 30px;
-      left: 150px;
-  
-      position: absolute;
-}
-  
-#offer-cover-text {
-      font-size: 130%;
-      font-family: Oswald;
-      text-transform: uppercase;
-      letter-spacing: 4px;
-  
-      width: 800px;
-      height: 300px;
-  
-      padding-top: 15px;
-      padding-left: 20px;
-  
-      background-color: rgba(0, 128, 128, .8);
-  
-      bottom: 30px;
-      right: 150px;
-  
-      position: absolute;
+    font-size: 1.4em;
+    font-family: 'Noto Sans', sans-serif;
+    text-align: left;
+
+    max-width: 700px;
+    max-height: 800px;
+
+    padding-top: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 15px;
+
+    background-color: rgba(0, 128, 128, .8);
+    top: 155px;
+    margin-left: 6%;
+    margin-right: 6%;
+    border-radius: 10px;
+    position: absolute;
+    float:left;
 }
 
-  /*--classes section--*/
+#gym_outside_photo {
+    height: 266px;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    display: block;
+}
+/*------------Ofer Section----------*/
+
+#offer-cover-text {
+    font-size: 1.4em;
+    font-weight: bold;
+    font-family: 'Noto Sans', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+
+    max-width: 800px;
+    max-height: 300px;
+
+    padding-top: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 15px;
+
+    background-color: rgba(0, 128, 128, .8);
+    border-radius: 10px;
+
+    top: 650px;
+    right: 6%;
+    position: absolute;
+}
+
+#offer-cover-text h2 {
+  font-size: 1.6em;
+  padding: 10px;
+  text-transform: none;
+  text-align: left;
+  font-weight: bold;
+}
+
+/*------------Logo----------*/
+
+#logo_large {
+    z-index: 1;
+    position: absolute;
+    height: 350px;
+    width: 350px;
+    top: 250px;
+    right:420px;
+    background-color: rgba(255,255,255, .8);
+}
+
+/*------------Classes Section----------*/
 
 #classes-header {
-  font-size: 1.2em;
-  letter-spacing: 4px;
   display: inline;
   position: relative;
   
 }
-#classes-heading {
+#classes-header h1 {
   padding: 30px;
   background-color: #4a4a4f;
 }
@@ -127,20 +185,34 @@ nav a:hover {
     background-position: center;
     background-repeat: no-repeat;
     width: 100%;
-    padding-left: 20px;
     overflow: hidden;
+}
+
+#classes-schedule h2 {
+  font-size: 1.8em;
+  text-transform: uppercase;
+  color: white;
+  letter-spacing: 4px;
+  padding-bottom: 10px;
+}
+
+#classes-schedule h3 {
+  font-size: 1.4em;
+  padding-bottom: 5px;
 }
 
 #classes-schedule div {
     color: #fafafa;
-    background-color: rgba(0,0,0, .6);
+    background-color: rgba(0,0,0,0.6);
     width: 13%;
     height: 300px;
     float: left;
-    padding: 60px 0 0 10px;
+    padding: 50px 0 0 10px;
     text-align: center;
-    margin: 4px;
+    margin: 4px 4px 4px 8px;
+    border-radius: 10px;
 }
+/*------------Contact Us Section----------*/
 
 #contact-details {
     background-image: url("../img/suffron_walden.jpg");
@@ -149,22 +221,253 @@ nav a:hover {
     background-position: center;
     width: 100%;
     overflow: hidden;
-    padding-left: 10px;
+}
+
+#contact-details h2 {
+    font-size: 1.6em;
 }
 
 #contact-details div {
     color: black;
-    background-color: rgba(0,128,128, .6);
+    background-color: rgba(0,128,128,0.8);
     width: 24%;
     height: 300px;
     float: left;
     padding: 10px 0 0 10px;
     text-align: center;
-    margin: 2px 2px 10px 2px;
+    margin: 3px 3px 3px 3px;
     font-size: 130%;
-    font-family: Oswald;
+    font-family: 'Noto-Sans', sans-serif;
     text-transform: uppercase;
-    letter-spacing: 4px;
+    font-weight: bold;
     padding-top: 10px;
     padding-bottom: 10px;
+    border-radius: 10px;
 }
+
+#contact-details ul {
+    list-style: none;
+    padding: 10px;
+}
+
+#contact-details li {
+    padding: 10px;
+}
+
+#contact-details table {
+    margin: auto;
+}
+
+#contact-details td {
+    padding: 10px;
+}
+
+#map {
+    width: 400px;
+    height: 300px;
+}
+
+/*------------Footer----------*/
+
+footer {
+    height: 80px;
+    color: teal;
+    background-color: #4a4a4f;
+}
+
+footer div {
+    display:inline-block;
+    text-align: center;
+    margin: 20px;
+    
+}
+
+footer li {
+    display:inline;
+}
+
+footer i {
+    font-size: 200%;
+    color: teal;
+    letter-spacing: 10px;
+}
+.float-right {
+    float: right;
+}
+
+#icons-container {
+    margin-left: 0px;
+}
+
+/*------------Gallery photos----------*/
+
+#photo {
+    clear: both;
+    line-height: 0;
+    column-count: 4;
+    column-gap: 0px;
+    background-color: teal;
+}
+#photo img {
+  width: 100%;
+}
+
+/*------------Sign In/Up background----------*/
+
+.form-background {
+  clear: both;
+  background: url("../img/sign_up_background.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 1250px;
+}
+
+.form-background h2 {
+  padding: 10px;
+}
+
+/*------------Forms----------*/
+
+#members-signup {
+    margin-top: 50px;
+    margin-left: 100px;
+    float:left;
+    color: #fff;
+    background-color: rgba(60, 60, 60, 0.8);
+    max-width: 400px;
+    padding: 30px;
+}
+
+#new-members-signup {
+    margin-top: 50px;
+    margin-left: 50px;
+    float:left;
+    color: #fff;
+    background-color: rgba(60, 60, 60, 0.8);
+    max-width: 400px;
+    left: 10%;
+    padding: 30px;
+}
+
+.input-box {
+    background: transparent;
+    color: #fafafa;
+    width: 100%;
+    height: 25px;
+    margin: 5px 0 20px 0;
+    border: 1px solid #fafafa;
+    border-radius: 5px;
+}
+
+.form-buttons {
+    margin-top: 20px;
+    border-radius: 5px;
+    padding: 15px 32px 15px 32px;
+    text-align: center;
+    font-size: 1.4em;
+    background-color: #4a4a4f;
+    color: teal;
+    font-weight: bold;
+    border: 2px solid;
+    border-color: teal;
+    display: block;
+}
+
+.form-buttons:hover {
+    color:turquoise;
+    border-color: turquoise;
+
+}
+
+.sign_in_text label {
+  padding: 5px;
+  
+}
+
+.sign_in_text li {
+  padding: 5px;
+}
+
+.sign_in_text div {
+  margin-top: 10px;
+}
+
+/*------------Table----------*/
+
+#membership_pricing {
+  font-family: 'Noto Sans', sans-serif;
+  margin-top: 50px;
+  margin-left: 50px;
+  float:left;
+  color: #fff;
+  background-color: rgba(60, 60, 60, 0.8);
+  max-width: 600px;
+  padding: 20px;
+  text-align: center;
+}
+
+#membership_pricing h2 {
+  color:teal;
+  font-size: 1.6em;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  padding: 10px;
+}
+
+#membership_pricing h3 {
+  color: teal;
+  font-size: 1.4em;
+  text-transform: uppercase;
+  padding: 10px;
+}
+
+#membership_pricing p {
+  padding: 10px;
+}
+
+#membership_pricing table {
+  border: 1px solid white;
+  border-radius: 5px;
+}
+
+#membership_pricing th {
+  border: 1px solid white;
+  padding: 5px;
+}
+
+#membership_pricing td {
+  border: 1px solid white;
+  padding: 5px;
+}
+
+#membership_pricing table {
+  margin: auto;
+}
+
+#table_1 td {
+  width: 200px;
+  height:56px;
+}
+
+#table_2 td {
+  width: 280px;
+  height: 56px;
+}
+
+.table_headings {
+  color: teal;
+  font-weight:bold;
+  background-color: #4a4a4f;
+}
+
+@media screen and (max-width: 1396px) {
+  #logo_small {
+    display: none;
+  }
+
+  #about-backgound-image {
+    height: 2000px;
+  }
+  
+}
+    
