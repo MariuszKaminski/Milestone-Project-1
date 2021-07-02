@@ -1,5 +1,7 @@
 # GymForU
 
+Link to the project: https://mariuszkaminski.github.io/Milestone-Project-1/
+
 ---
 
 ## Table of Contents
@@ -230,7 +232,9 @@ Pasting the code into W3C Markup Validation Service has returned the following r
 ![CSS validation results](./assets/img/css-validation-results.PNG)
 
 ## Deployment
-  
+After final commit to Git via Gipod, the website has been deployed online at Git Pages through a standard GitHub procedure. Below are the steps taken:\
+Enter the Github repository “Project Milestone 1” -> Settings -> Pages ->Source-> (branch) Master-> (folder) /root-> Save 
+ 
 ## Evaluation
 
 While reflecting on the achieved outcome, it its present form the website does not provide the functionality required by the customer. The site would benefit from greater responsiveness which can be achieved with Bootstrap library, the inclusion of which was optional in Milestone Project 1. The forms would need to employ appropriate scripts to work, which is currently beyond the developer's skillset. Some of the pages might appear overloaded; therefore the website could also benefit from at least one more page (perhaps a separate page for pricing). These are features that could be included in future updates.\
