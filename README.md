@@ -182,11 +182,11 @@ The code for the purpose of this project was written and edited in VSC then copi
 ## Testing
 1. As a new user I can easily navigate the website.
 * Result: PASSED
-  * The website has a navbar with links to homepage sections and other website pages that can be accessed from every webiste page.
+  * The website has a navbar with links to homepage sections and other website pages that can be accessed from every website page.
 2. As a new user I can easily find pricing information.
 * Result: PASSED
   * There is an easy to follow extensive pricing offer provided in the form of a table.
-3. As a new user I can easily find personal traning and classes information.
+3. As a new user I can easily find personal training and classes information.
 * Result: PARTIAL PASS
   * There is a weekly class schedule and offered services information provided for everyone, however more detailed information about particular personal trainers is only available after sign up.
 4. As a new user I can check the the location of the gym.
@@ -197,19 +197,19 @@ The code for the purpose of this project was written and edited in VSC then copi
   * The website provides contact details for enquiries.
 6. As a new user I can find links to the gym's other social media pages that I can visit to gain even more information.
 * Result: PASSED
-  * The social media likns are provided in the footer and can be accessed from every website page
+  * The social media links are provided in the footer and can be accessed from every website page
 7. As a new user I would like to be able to register as a member once I've made my decision to join the gym.
 * Result: PASSED
-  * The website has a separate form where a person whishing to join the gym can leave their details to book an induction.
+  * The website has a separate form where a person wishing to join the gym can leave their details to book an induction.
 8. As a returning user I can see information about personal trainers working for the gym
 * Result: PASSED
-  * This function becomes available after joining the gym and can be accessed after loging into a members account in the "Member's area" section.
+  * This function becomes available after joining the gym and can be accessed after logging into a members account in the "Member's area" section.
 9. As a returning user I want to be able to book my classes as well as other services provided by the gym.
 * Result: PASSED
-  * This function becomes available after joining the gym and can be accessed after loging into a members account in the "Member's area" section.
-10. As a returing user I want to be able to manage my membership.
+  * This function becomes available after joining the gym and can be accessed after logging into a members account in the "Member's area" section.
+10. As a returning user I want to be able to manage my membership.
 * Result: PASSED
-  * This function becomes available after joining the gym and can be accessed after loging into a members account in the "Member's area" section.
+  * This function becomes available after joining the gym and can be accessed after logging into a members account in the "Member's area" section.
 11. As a returning user I want to be able to leave feedback and get gym related updates.
 * Result: PASSED
   * This function becomes available after joining the gym and can be accessed after loging into a members account in the "Member's area" section.
